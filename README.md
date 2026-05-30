@@ -76,22 +76,16 @@ I build practical software systems that solve real operational problems — back
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ardaniell001&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Daniel's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaniell001&layout=compact&theme=tokyonight&hide_border=true" alt="Daniel's top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardaniell001&theme=tokyonight" alt="Daniel's GitHub profile summary" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardaniell001&theme=tokyonight" alt="Daniel's repositories by language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardaniell001&theme=tokyonight" alt="Daniel's GitHub statistics" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ardaniell001&theme=tokyonight&hide_border=true" alt="Daniel's GitHub streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ardaniell001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
